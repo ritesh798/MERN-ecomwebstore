@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport(
   sendgridTransport({
     auth: {
       api_key:
-        "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",
+        "SG.nTStE0s5Tm27sWLy1jq4Yw.qqxgpnjmtKjLNlV3ON8D0tA",
     },
   })
 );
